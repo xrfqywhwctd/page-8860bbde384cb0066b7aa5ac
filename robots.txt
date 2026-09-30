@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.xn--naivev2ray-cn3r594m.com/sitemap.xml
